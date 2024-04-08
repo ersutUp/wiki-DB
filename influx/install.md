@@ -86,7 +86,7 @@ influxd --http-bind-address=:8086
 
 ## linux
 
-**获取最新版本：https://github.com/influxdata/influx-cli/releases
+**获取最新版本：https://github.com/influxdata/influx-cli/releases**
 
 截止2024.4.8最新版本为2.7.3
 
